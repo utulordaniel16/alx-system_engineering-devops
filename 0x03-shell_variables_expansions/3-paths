@@ -1,0 +1,4 @@
+
+#!/bin/bash
+echo $PATH ǀ tr -s ':' '\n' ǀ wc -1
+
